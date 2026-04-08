@@ -533,7 +533,7 @@ const AboutSection = () => {
             viewport={{ once: true }}
             className="flex flex-wrap items-center gap-4"
           >
-            <button className="bg-[#ffc107] hover:bg-[#ffb300] text-[#151619] px-8 py-4 rounded-full font-bold text-sm tracking-widest flex items-center gap-3 transition-colors shadow-lg">
+            <button className="bg-[#c4f042] hover:bg-[#b0d83b] text-[#151619] px-8 py-4 rounded-full font-bold text-sm tracking-widest flex items-center gap-3 transition-colors shadow-lg">
               <div className="bg-[#151619] text-white rounded-full p-1">
                 <ArrowRight size={16} />
               </div>
